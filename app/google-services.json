@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197249288223",
+    "project_id": "testing-project-aea15",
+    "storage_bucket": "testing-project-aea15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197249288223:android:d7ecca284bf0e6579e2d2a",
+        "android_client_info": {
+          "package_name": "com.nurbk.ps.v1.image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197249288223-c5ima2vbso2pnprq0ssc5p18p613bgcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHX5f2pYGXNBWrjF8Mol3txMy44cpTvc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197249288223-c5ima2vbso2pnprq0ssc5p18p613bgcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

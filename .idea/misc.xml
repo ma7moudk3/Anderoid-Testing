@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout-v24/menu_sheet.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/dialog_video.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/fragment_details_image.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/fragment_favorite.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/fragment_images.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/fragment_search.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/fragment_video.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/item_photo.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/layout/item_silder_image.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/ImageApp/app/src/main/res/menu/menu_nav.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <xml-schema-version>XMLSchema_1_1</xml-schema-version>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
